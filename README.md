@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nikthedeveloper
+- 👀 I’m interested in Game development, Backend development, Startaps 
+- 🌱 I’m currently learning ... ASP.Net, .Net Core, SQl, WEB
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me nthedeveloper@gmail.com
